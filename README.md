@@ -1,5 +1,5 @@
 # Getting Started with Bodo
-Welcome to the Bodo Platform! These notebooks provide quick start guides to using Bodo. We recommend starting with [01-bodo_getting_started.ipynb](01-bodo_getting_started.ipynb) and following that with [02-bodo_tutorial.ipynb](02-bodo_tutorial.ipynb).
+Welcome to the Bodo Platform! These notebooks provide quick start guides to using Bodo. We recommend starting with [bodo_getting_started.ipynb](bodo_getting_started.ipynb) and following that with [bodo_tutorial.ipynb](bodo_tutorial.ipynb).
 
 
 _________________________
